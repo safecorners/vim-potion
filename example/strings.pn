@@ -1,0 +1,3 @@
+"She said: \"Vimscript is tricky, but useful\"!"
+'She said: \'Vimscript is tricky, but useful\'!'
+"foo \\" bar"
